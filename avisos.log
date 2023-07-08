@@ -1,0 +1,313 @@
+[2023-06-25 16:18:48] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->code: 02
+[2023-06-25 16:24:57] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->code: 02
+[2023-06-25 23:44:32] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->code: 01
+[2023-06-25 23:44:46] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->code: 02
+[2023-06-25 23:45:01] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->code: 03
+[2023-06-25 23:46:17] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->code: 01
+[2023-06-25 23:46:47] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->code: 01
+[2023-06-26 00:58:22] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El nombre no puede ser nulo o estar vacio
+[2023-06-26 01:19:32] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 01:20:06] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 01:20:58] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 01:21:05] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 01:22:01] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios
+[2023-06-26 01:23:26] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios
+[2023-06-26 01:24:39] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 01:24:46] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 01:25:08] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 01:31:58] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 01:32:36] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios
+[2023-06-26 01:32:42] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 01:32:48] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios
+[2023-06-26 01:32:56] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios
+[2023-06-26 01:33:13] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios
+[2023-06-26 01:33:20] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 02:02:31] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios
+[2023-06-26 02:02:37] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden contener numeros
+[2023-06-26 02:03:06] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->el Odontologo que buscas no existe
+[2023-06-26 02:03:52] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->el Odontologo que buscas no existe
+[2023-06-26 15:20:35] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:22:32] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:22:36] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:25:57] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:26:35] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:26:40] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:26:46] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:27:00] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:28:34] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:29:31] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:29:44] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:29:50] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:29:55] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:29:59] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:30:05] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:55:53] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-26 15:56:21] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios, numeros, tabulaciones o saltos de linea
+[2023-06-27 15:46:28] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->No existe ningun odontologo
+[2023-06-27 23:51:12] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede contener espacios al inicio o final, numeros, tabulaciones o saltos de linea
+[2023-06-27 23:52:36] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede ser nulo o estar vacio
+[2023-06-27 23:55:27] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con id=5 que buscas no existe
+[2023-06-27 23:58:12] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con id=1 que desea eliminar no existe
+[2023-06-30 14:33:56] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no pueden ser menores a 3 caracteres
+[2023-06-30 14:41:29] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->No existe ningun odontologo que listar
+[2023-06-30 14:42:53] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede ser nulo o estar vacio
+[2023-06-30 14:43:01] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre o apellido no puede ser nulo o estar vacio
+[2023-06-30 14:52:23] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El paciente que desea eliminar no existe
+[2023-06-30 15:07:25] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha y hora del turno no puede ser anterior a la actual
+[2023-06-30 15:47:18] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-06-30 15:50:41] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-06-30 15:56:18] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-07-01 16:46:14] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula debe ser unica para cada odontologo
+[2023-07-01 16:46:27] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre debe contener un minimo de 3 caracteres
+[2023-07-01 16:46:52] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula no puede ser negativa
+[2023-07-01 16:47:05] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula no puede ser negativa
+[2023-07-01 16:47:16] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El apellido no puede estar vacio
+[2023-07-01 16:47:22] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El apellido no puede ser nulo
+[2023-07-01 16:48:01] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre no puede ser nulo
+[2023-07-01 16:48:10] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre no puede estar vacio
+[2023-07-01 17:14:54] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser mayor a 0
+[2023-07-01 17:15:05] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser anterior a la actual
+[2023-07-01 17:15:28] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-01 17:16:28] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-01 17:16:48] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-01 17:17:18] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-01 17:18:57] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-01 17:19:03] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser anterior a la actual
+[2023-07-01 18:37:06] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->No se puede guardar un turno el sabado
+[2023-07-01 18:37:28] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->No se puede guardar un turno el domingo
+[2023-07-01 18:37:33] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La hora del turno debe ser entre las 8:00 y 17:00
+[2023-07-01 18:37:43] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La hora del turno debe ser entre las 8:00 y 17:00
+[2023-07-01 18:37:55] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La hora del turno debe ser entre las 8:00 y 17:00
+[2023-07-01 18:42:29] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El paciente con el que desea agendar un turno no existe
+[2023-07-01 18:42:47] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El odontologo con el que desea agendar un turno no existe
+[2023-07-01 18:45:00] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->No se puede guardar un turno el sabado
+[2023-07-01 18:45:12] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha del turno no puede ser menor o igual a la actual
+[2023-07-01 18:46:25] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha del turno no puede ser menor o igual a la actual
+[2023-07-01 18:46:36] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La hora del turno debe ser entre las 8:00 y 17:00
+[2023-07-01 18:46:44] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La hora del turno debe ser entre las 8:00 y 17:00
+[2023-07-01 18:46:52] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El paciente no puede tener 2 turnos el mismo dia
+[2023-07-01 18:47:08] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-01 18:48:40] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El paciente con el que desea agendar un turno no existe
+[2023-07-01 18:48:50] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-01 18:49:01] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El odontologo no puede tener 2 turnos a la misma hora
+[2023-07-02 00:00:28] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-02 00:00:37] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El odontologo no puede tener 2 turnos a la misma hora
+[2023-07-02 00:30:21] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser anterior a la actual
+[2023-07-02 01:45:22] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-02 12:42:08] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula debe ser unica para cada odontologo
+[2023-07-02 12:42:26] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que quieres modificar no existe
+[2023-07-02 12:42:57] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que quieres modificar no existe
+[2023-07-02 12:43:02] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que quieres modificar no existe
+[2023-07-02 12:43:07] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula debe ser unica para cada odontologo
+[2023-07-02 12:43:29] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que quieres modificar no existe
+[2023-07-02 12:45:12] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El nombre debe contener un minimo de 3 caracteres
+[2023-07-02 12:45:24] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que quieres modificar no existe
+[2023-07-02 13:14:50] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El odontologo no puede tener 2 turnos a la misma horadebe haber un minimo de 30 mins de diferencia entre turno y turno
+[2023-07-02 13:15:07] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El odontologo no puede tener 2 turnos a la misma horadebe haber un minimo de 30 mins de diferencia entre turno y turno
+[2023-07-02 13:15:16] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El odontologo no puede tener 2 turnos a la misma horadebe haber un minimo de 30 mins de diferencia entre turno y turno
+[2023-07-02 13:16:09] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El odontologo no puede tener 2 turnos a la misma horadebe haber un minimo de 30 mins de diferencia entre turno y turno
+[2023-07-02 16:46:01] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->Es necesario el id del turno que quieres actualizar
+[2023-07-02 18:43:01] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-02 18:57:23] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 19:15:15] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 19:16:24] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 19:20:36] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-02 19:32:06] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-02 19:40:16] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 19:41:52] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 19:47:34] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 19:47:58] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 19:47:59] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 19:48:54] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-02 21:22:19] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni no puede ser nulo
+[2023-07-02 21:22:41] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 21:22:48] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 21:23:00] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe contener 8 digitos
+[2023-07-02 21:24:20] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser nula
+[2023-07-02 21:25:04] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser anterior a la actual
+[2023-07-02 21:26:04] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser anterior a la actual
+[2023-07-02 21:26:14] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni no puede ser nulo
+[2023-07-02 21:26:21] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser nula
+[2023-07-02 21:26:30] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser anterior a la actual
+[2023-07-02 22:56:24] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-02 23:00:02] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-02 23:42:36] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-02 23:56:05] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 00:00:28] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser anterior a la actual
+[2023-07-03 00:07:09] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-03 13:49:19] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-03 13:49:52] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 13:54:08] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-03 14:04:58] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser anterior a la actual
+[2023-07-03 14:08:18] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:11:02] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:11:20] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:12:12] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:20:20] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:20:31] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:20:38] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:21:52] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:24:13] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 14:24:33] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 14:26:09] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:33:51] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 14:34:26] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 15:11:06] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:11:35] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:14:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:18:37] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:20:44] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-03 15:20:54] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:20:58] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:18] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:25] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:40] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:44] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:52] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:53] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:53] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:53] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:53] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:22:53] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:24:42] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:30:02] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:07] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:07] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:08] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:09] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:09] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:09] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:11] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:11] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:11] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:11] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:11] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:11] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:11] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:12] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:12] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:12] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:34:12] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:36:16] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:37:24] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que desea eliminar no existe
+[2023-07-03 15:38:25] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que queres actualizar no existe
+[2023-07-03 20:00:28] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula no puede ser negativa
+[2023-07-03 20:01:33] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula debe ser unica para cada odontologo
+[2023-07-03 20:23:03] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 20:24:51] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni no puede ser nulo
+[2023-07-03 20:36:05] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El paciente que buscas no existe
+[2023-07-03 20:45:19] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula debe ser unica para cada odontologo
+[2023-07-03 20:45:33] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 20:45:35] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 20:45:40] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-07-03 20:47:15] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 20:47:34] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 20:49:57] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-07-03 20:50:54] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-07-03 20:51:26] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 20:52:35] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula debe ser unica para cada odontologo
+[2023-07-03 20:52:56] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-07-03 20:53:04] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-07-03 20:53:08] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-07-03 20:55:23] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 20:59:03] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 20:59:29] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-07-03 20:59:34] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que buscas no existe
+[2023-07-03 21:08:00] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La matricula debe ser unica para cada odontologo
+[2023-07-03 21:57:27] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El apellido no puede ser nulo
+[2023-07-03 21:59:14] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El apellido no puede ser nulo
+[2023-07-03 22:01:10] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que quieres modificar no existe
+[2023-07-03 22:04:13] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo que quieres modificar no existe
+[2023-07-03 22:22:41] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El paciente con el que desea agendar un turno no existe
+[2023-07-03 22:52:22] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El paciente con el que desea agendar un turno no existe
+[2023-07-03 22:52:32] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->El dni debe ser unico para cada paciente
+[2023-07-03 23:01:36] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 23:01:40] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 23:01:40] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 23:01:41] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 23:01:41] [ERROR] [GlobalExceptionHandler:27] mensaje de error IllegalArgumentException -->El odontologo con que desea eliminar no existe
+[2023-07-03 23:38:54] [INFO ] [OdontologoService:41] Se guardo un odontologo correctamente
+[2023-07-03 23:48:56] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:07:49] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:07:49] [INFO ] [OdontologoService:42] Se guardo un odontologo correctamente
+[2023-07-04 00:08:00] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:08:00] [INFO ] [OdontologoService:42] Se guardo un odontologo correctamente
+[2023-07-04 00:08:33] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:08:33] [INFO ] [OdontologoService:42] Se guardo un odontologo correctamente
+[2023-07-04 00:09:37] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:10:23] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:10:56] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:12:36] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:13:06] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-04 00:13:06] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-07-04 00:13:38] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-04 00:13:38] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-07-04 00:14:05] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-04 00:14:31] [INFO ] [OdontologoService:48] OdontologoService --> listar()
+[2023-07-04 00:15:37] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-04 00:15:37] [INFO ] [OdontologoService:72] Odontologo eliminado
+[2023-07-04 00:16:00] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:16:00] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-04 00:16:00] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:48] OdontologoService --> listar()
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:42] Se guardo un odontologo correctamente
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:72] Odontologo eliminado
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-04 00:16:01] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-04 00:17:44] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-04 00:17:44] [INFO ] [OdontologoService:42] Se guardo un odontologo correctamente
+[2023-07-08 19:46:31] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-08 19:52:24] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-08 19:52:24] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-07-08 19:52:35] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-08 19:52:35] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-07-08 19:52:47] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-08 19:52:47] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:43] Se guardo un odontologo correctamente
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:72] Odontologo eliminado
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:48] OdontologoService --> listar()
+[2023-07-08 19:53:41] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:43] Se guardo un odontologo correctamente
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:72] Odontologo eliminado
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:48] OdontologoService --> listar()
+[2023-07-08 19:54:53] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:43] Se guardo un odontologo correctamente
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:72] Odontologo eliminado
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:48] OdontologoService --> listar()
+[2023-07-08 19:54:59] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
