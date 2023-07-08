@@ -5,6 +5,6 @@ El proyecto consiste en una API REST de una clínica odontológica. En el sistem
 
 Administrrar datos de odontólgos y pacientes. Asignar a un paciente un turno con un respectivo odontólogo a una determinada fecha y horario.
 
-#Requerimientos
+# Requerimientos
 Java 17
  maven
