@@ -5,25 +5,18 @@ import ar.com.dh.clinica.Exceptions.BadRequestException;
 import ar.com.dh.clinica.Exceptions.NotFoundException;
 import ar.com.dh.clinica.entity.Odontologo;
 import ar.com.dh.clinica.repository.IOdontologoRepository;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
-import org.mockito.stubbing.OngoingStubbing;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.xmlunit.util.Mapper;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.ArgumentMatchers.any;
-import static org.mockito.ArgumentMatchers.anyInt;
-import static org.mockito.Mockito.doAnswer;
 import static org.mockito.Mockito.when;
 @SpringBootTest
 class OdontologoServiceTest {
@@ -74,7 +67,6 @@ class OdontologoServiceTest {
         //ASSERT
         Assertions.assertEquals("andres", odontologoDto.getNombre());
     }
-
 
     @Test
     void listar_odontologos() throws NotFoundException {
@@ -141,7 +133,4 @@ class OdontologoServiceTest {
         //ASSERT
         Assertions.assertEquals("carandino", odontologoDto.getApellido());
     }
-
-
-
 }

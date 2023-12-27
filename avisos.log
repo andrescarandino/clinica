@@ -311,3 +311,57 @@
 [2023-07-08 19:54:59] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
 [2023-07-08 19:54:59] [INFO ] [OdontologoService:48] OdontologoService --> listar()
 [2023-07-08 19:54:59] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:43] Se guardo un odontologo correctamente
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:72] Odontologo eliminado
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:48] OdontologoService --> listar()
+[2023-07-10 15:07:00] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:43] Se guardo un odontologo correctamente
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:72] Odontologo eliminado
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:48] OdontologoService --> listar()
+[2023-07-10 15:12:26] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-08-03 23:36:00] [INFO ] [PacienteService:40] PacienteService --> guardar()
+[2023-08-03 23:36:01] [ERROR] [GlobalExceptionHandler:20] mensaje de error BadRequestException -->La fecha de alta no puede ser anterior a la actual
+[2023-08-03 23:37:38] [INFO ] [PacienteService:40] PacienteService --> guardar()
+[2023-08-03 23:37:38] [INFO ] [PacienteService:45] odontologo guardado
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:43] Se guardo un odontologo correctamente
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:72] Odontologo eliminado
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:48] OdontologoService --> listar()
+[2023-08-03 23:38:31] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:59] Odontologo encontrado
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:89] Odontologo actualizado
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:38] OdontologoService --> guardar()
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:43] Se guardo un odontologo correctamente
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:72] Odontologo eliminado
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:81] OdontologoService --> actualizar()
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:68] OdontologoService --> eliminar()
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:48] OdontologoService --> listar()
+[2023-08-03 23:39:43] [INFO ] [OdontologoService:56] OdontologoService --> buscarPorId()
+[2023-08-03 23:43:13] [INFO ] [PacienteService:39] PacienteService --> guardar()
+[2023-08-03 23:43:13] [INFO ] [PacienteService:44] odontologo guardado

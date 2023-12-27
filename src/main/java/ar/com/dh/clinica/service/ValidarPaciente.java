@@ -1,7 +1,6 @@
 package ar.com.dh.clinica.service;
 
 import ar.com.dh.clinica.Exceptions.BadRequestException;
-import ar.com.dh.clinica.entity.Odontologo;
 import ar.com.dh.clinica.entity.Paciente;
 import ar.com.dh.clinica.repository.IPacienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -6,6 +6,10 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @JsonIgnoreProperties
 public class OdontologoDto {
+    private Integer id;
+    private String nombre;
+    private String apellido;
+    private Integer matricula;
 
     public OdontologoDto(Integer id, String nombre, String apellido, Integer matricula) {
         this.id = id;
@@ -16,10 +20,7 @@ public class OdontologoDto {
 
     public OdontologoDto() {
     }
-    private Integer id;
-    private String nombre;
-    private String apellido;
-    private Integer matricula;
+
 
 
     public Integer getId() {

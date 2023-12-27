@@ -2,7 +2,6 @@ package ar.com.dh.clinica.service;
 
 import ar.com.dh.clinica.Dto.OdontologoDto;
 import ar.com.dh.clinica.Exceptions.BadRequestException;
-import ar.com.dh.clinica.Exceptions.GlobalExceptionHandler;
 import ar.com.dh.clinica.Exceptions.NotFoundException;
 import ar.com.dh.clinica.entity.Odontologo;
 import ar.com.dh.clinica.repository.IOdontologoRepository;

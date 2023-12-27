@@ -3,9 +3,7 @@ package ar.com.dh.clinica.service;
 import ar.com.dh.clinica.Exceptions.BadRequestException;
 import ar.com.dh.clinica.entity.Odontologo;
 import ar.com.dh.clinica.repository.IOdontologoRepository;
-import org.hibernate.annotations.Comment;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
